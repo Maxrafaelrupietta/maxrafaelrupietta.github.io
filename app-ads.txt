@@ -1,0 +1,5 @@
+# app-ads.txt for Watt Tycoon
+# Ad networks check this file to confirm that ads in the app are sold by authorised sellers.
+# After signing up, add the lines AppLovin and AdMob show in their dashboards, e.g.:
+# applovin.com, <your AppLovin publisher ID>, DIRECT
+# google.com, pub-<your AdMob publisher ID>, DIRECT, f08c47fec0942fa0
